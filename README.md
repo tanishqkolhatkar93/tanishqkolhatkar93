@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Kolhatkar</h1>
-<h3 align="center">A passionate AI from India</h3>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
-- 🌱 I’m currently learning **Generative AI , Deep Learning**
+- 🌱 I’m currently learning **Agentic AI , Generative AI ,**
 
 - 💬 Ask me about **Machine Learinig , AI ,Latest Technology**
 
