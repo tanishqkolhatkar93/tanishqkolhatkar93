@@ -38,6 +38,7 @@ I enjoy working at the intersection of **AI Engineering, Software Development, a
 An integrated commerce system designed around multiple specialised AI agents working together.
 
 **Engineering Focus:**
+
 - Multi-agent orchestration and coordination
 - Agent integration and communication
 - Workflow design and system architecture
@@ -47,9 +48,32 @@ An integrated commerce system designed around multiple specialised AI agents wor
 
 📂 **Repository:** https://github.com/tanishqkolhatkar93/Cube-Tanishq
 
+
 ---
 
-### 2. Pack Manager AI — AI-Powered Packing Verification
+### 2. Signify — AI-Powered Speech-to-Sign Language Platform
+
+An accessibility-focused AI project designed to convert spoken language into sign-language animations, helping bridge communication gaps between hearing and deaf users.
+
+**Engineering Focus:**
+
+- Speech-to-text and language processing workflows
+- AI agent-based processing and coordination
+- Integration with VerbX APIs
+- Mapping generated outputs to sign-language representations
+- 3D sign-language animation using `.glb` models
+- WebSocket-based communication to send animation values to the frontend
+- Human review to validate generated sign animations
+
+**My contribution:** Worked on exploring the speech-to-sign pipeline, researching technical approaches, building prototypes, and addressing challenges around gloss-to-sign mapping, data availability and animation generation.
+
+📂 **Repository:** TODO: Add Signify GitHub link  
+🔗 **Live Demo:** TODO: Add demo link
+
+
+---
+
+### 3. Pack Manager AI — AI-Powered Packing Verification
 
 An AI application designed to support packing verification through image-based analysis and decision support.
 
@@ -66,7 +90,7 @@ An AI application designed to support packing verification through image-based a
 
 ---
 
-### 3. Career Craft AI — AI-Powered Career Assistant
+### 4. Career Craft AI — AI-Powered Career Assistant
 
 An AI application focused on helping users with career-related workflows.
 
@@ -79,7 +103,7 @@ An AI application focused on helping users with career-related workflows.
 
 ---
 
-### 4. Mentor Baba Quiz App — Full-Stack Web Application
+### 5. Mentor Baba Quiz App — Full-Stack Web Application
 
 A quiz application built with Flask and MySQL, featuring user authentication, question management, timed quizzes, and result tracking.
 
