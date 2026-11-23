@@ -1,44 +1,128 @@
-<h1 align="center">Hi 👋, I'm Tanishq Kolhatkar</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
 
-- 🌱 I’m currently learning **Agentic AI , Generative AI ,**
+# Hi, I'm Tanishq Kolhatkar 👋
 
-- 💬 Ask me about **Machine Learinig , AI ,Latest Technology**
+### AI Engineer | Forward Deployed Engineer | AI Agents & Intelligent Automation
 
-- 📫 How to reach me **tanishqkolhatkar93@gmail.com**
+I build AI-powered applications and integrated software systems that solve real-world business problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanishq-kolhatkar-4168a0209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanishq-kolhatkar-4168a0209/" height="30" width="40" /></a>
-<a href="https://discord.gg/tanishq9093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanishq9093" height="30" width="40" /></a>
-</p>
+My focus is on taking AI solutions beyond prototypes — understanding business requirements, designing system architectures, integrating APIs and tools, building reliable workflows, and deploying usable applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I enjoy working at the intersection of **AI Engineering, Software Development, and Business Problem-Solving.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqkolhatkar93&show_icons=true&locale=en&layout=compact" alt="tanishqkolhatkar93" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqkolhatkar93&show_icons=true&locale=en" alt="tanishqkolhatkar93" /></p>
+## 🚀 What I Build
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqkolhatkar93&" alt="tanishqkolhatkar93" /></p>
+- **AI Agents & Multi-Agent Systems** — Agent orchestration, tool calling, workflow execution, and human-in-the-loop systems.
+- **AI Workflow Automation** — Automating repetitive business processes and connecting existing tools through APIs.
+- **RAG & LLM Applications** — Retrieval pipelines, knowledge assistants, embeddings, and LLM integrations.
+- **Full-Stack AI Products** — Backend APIs, databases, application development, and deployment.
+- **Computer Vision Applications** — Image-based verification, intelligent analysis, and decision-support systems.
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-</div>
-</details>
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| AI & LLMs | LangChain, RAG, FAISS, Hugging Face, LLM APIs |
+| Backend | Flask, REST APIs |
+| Databases | MySQL, PostgreSQL, SQLite |
+| Cloud & DevOps | AWS, Docker, Jenkins, GitHub Actions |
+| AI Applications | Streamlit, Computer Vision, OpenCV |
+| Tools | Git, GitHub, VS Code |
+
+## 💻 Featured Projects
+
+### 1. Commerce AGI — Multi-Agent Commerce System
+
+An integrated commerce system designed around multiple specialised AI agents working together.
+
+**Engineering Focus:**
+- Multi-agent orchestration and coordination
+- Agent integration and communication
+- Workflow design and system architecture
+- Building a unified application from specialised agents
+
+🔗 **Live Demo:** https://cube-tanishq.onrender.com/  
+
+📂 **Repository:** https://github.com/tanishqkolhatkar93/Cube-Tanishq
+
+---
+
+### 2. Pack Manager AI — AI-Powered Packing Verification
+
+An AI application designed to support packing verification through image-based analysis and decision support.
+
+**Engineering Focus:**
+- Computer vision and image analysis
+- Automated packing verification
+- Decision outcomes: SEAL, STOP & FIX, and UNCERTAIN
+- Human review for uncertain cases
+
+📂 **Repository:** TODO: Add Pack Manager AI repository link  
+🔗 **Live Demo:** TODO: Add demo link
+
+---
+
+### 3. Career Craft AI — AI-Powered Career Assistant
+
+An AI application focused on helping users with career-related workflows.
+
+**Engineering Focus:**
+- LLM-powered application development
+- AI-driven user workflows
+- Backend and application integration
+
+📂 **Repository:** https://github.com/tanishqkolhatkar93/Career_Craft_AI
+
+---
+
+### 4. Mentor Baba Quiz App — Full-Stack Web Application
+
+A quiz application built with Flask and MySQL, featuring user authentication, question management, timed quizzes, and result tracking.
+
+**Engineering Focus:**
+- Backend development and RESTful workflows
+- MySQL database integration
+- AWS deployment
+- Application hosting and infrastructure
+
+📂 **Repository:** TODO: Add repository link
+
+---
+
+## 🧠 My Engineering Approach
+
+I believe building useful AI systems requires more than choosing an LLM or writing prompts.
+
+My approach:
+
+1. **Understand** — Identify the actual business or user problem.
+2. **Analyze** — Understand existing workflows, constraints, and requirements.
+3. **Architect** — Design the system, integrations, and data flow.
+4. **Build** — Develop the application, APIs, and AI components.
+5. **Integrate** — Connect the solution with existing tools and systems.
+6. **Deploy & Improve** — Test, debug, deploy, and continuously improve reliability.
+
+## 🎯 What I'm Looking For
+
+- Forward Deployed Engineer opportunities
+- AI Engineer and AI Product Manager opportunities
+- AI Agent and workflow automation projects
+- Collaborations with international startups and businesses
+- Opportunities to build and deploy practical AI solutions
+
+I'm particularly interested in solving problems involving AI agents, business automation, RAG systems, and intelligent software applications.
+
+## 🤝 Let's Connect
+
+I'm always open to discussing interesting engineering problems, AI projects, and potential collaborations.
+
+- **LinkedIn:** https://www.linkedin.com/in/tanishq93/
+- **Email:** tanishqkolhatkar93@gmail.com
+- **GitHub:** https://github.com/tanishqkolhatkar93
+
+---
+
+### Building AI that works in the real world. 🚀
+
