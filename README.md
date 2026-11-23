@@ -59,8 +59,10 @@ An AI application designed to support packing verification through image-based a
 - Decision outcomes: SEAL, STOP & FIX, and UNCERTAIN
 - Human review for uncertain cases
 
-📂 **Repository:** TODO: Add Pack Manager AI repository link  
-🔗 **Live Demo:** TODO: Add demo link
+📂 **Repository:** https://github.com/tanishqkolhatkar93/cube26-pck-0238-tanishqkolhatkar93/tree/main 
+
+🔗 **Live Demo:** https://tanishqkolhatkar93-package-manager.streamlit.app/
+
 
 ---
 
@@ -87,7 +89,7 @@ A quiz application built with Flask and MySQL, featuring user authentication, qu
 - AWS deployment
 - Application hosting and infrastructure
 
-📂 **Repository:** TODO: Add repository link
+📂 **Repository:** https://github.com/tanishqkolhatkar93/Mentor_baba_Quiz_app
 
 ---
 
