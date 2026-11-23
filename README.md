@@ -67,8 +67,9 @@ An accessibility-focused AI project designed to convert spoken language into sig
 
 **My contribution:** Worked on exploring the speech-to-sign pipeline, researching technical approaches, building prototypes, and addressing challenges around gloss-to-sign mapping, data availability and animation generation.
 
-📂 **Repository:** TODO: Add Signify GitHub link  
-🔗 **Live Demo:** TODO: Add demo link
+📂 **Repository:** https://github.com/tanishqkolhatkar93/Signify
+
+🔗 **Live Demo:** https://signify-inky.vercel.app/
 
 
 ---
